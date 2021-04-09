@@ -16,5 +16,12 @@ The second version includes SMP processor and data visualizer.
 ## V3.0
 The third version includes SMP processor and data visualizer.
 - In addition to the previous functions the data processor also includes:
-  - Entry fields to input which columns of the SMP files are relevant;
-- The data visualizer can plot all the relevant quantities on an interactive plot saved under .HTML format.
+  - A text field that displays what is being done when the code is running;
+  - The "R at Field [Oe]:" entry field is removed and if users asks for that function a pop-up window shows up asking the desired field;
+  - The messages field was deleted;
+  - Pop-up messages were introduced.
+- The data visualizer had the following updates:
+  - The messages field was deleted;
+  - Pop-up messages were introduced.
+## V3.1
+Minor buggs fixed, this is the final version of the data processor and data visualizer, next step was to include an automatic curve classifier based on ML.
