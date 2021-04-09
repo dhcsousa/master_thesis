@@ -1,5 +1,5 @@
 # Project description
-Work devloped to obtain the Master of Science degree in Engineering Physics
+Work devloped to obtain the Master of Science degree in Engineering Physics.
 
 ## Sensor Qualification In An Industrial Environment Using A Convolutional Neural Network
 Nowadays, sensors occupy a significant role in our everyday lives. Magnetoresistive sensors have been proven to be very useful in many applications, from sensing magnetic fields to precision encoding. As a consequence, there is a constant demand to optimize such devices and maximize their production yield.
