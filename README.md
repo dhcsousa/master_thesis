@@ -7,3 +7,6 @@ In any nano/microfabrication process, time is one of the most valuable resources
 This work presents a tool for quantitative analysis of some critical parameters of Magnetoresistive Devices fabrication. Furthermore, the software includes an automatic curve classifier using a Convolutional Neural Network to qualify Magnetoresistive Devices, focusing on sensors. Alongside the software for quantitative analysis and the curve classifier for sensors, it is also briefly discussed the use of a machine learning-based algorithm to predict the yield of a given nano/microfabrication fabrication process.
 
 **Keywords:** Magnetoresistive Sensors, Microfabrication, Sensor Qualification, Machine Learning, Convolutional Neural Network
+
+
+Inside the folder "Autoprober Data Processor Classifier and Visualizer with GUI v4.0" you will find the last version of the code alongside one artificially generated data example that you can use to run the code on.
