@@ -25,3 +25,7 @@ The third version includes SMP processor and data visualizer.
   - Pop-up messages were introduced.
 ## V3.1
 Minor buggs fixed, this is the final version of the data processor and data visualizer, next step was to include an automatic curve classifier based on ML.
+## V4.0
+Automatic curve classifier based on ML included. Classifier built for TMR based sensors.
+
+The V4.0 is available on the respository.
